@@ -141,6 +141,6 @@ I am continuously exploring:
 
 - **LinkedIn:** https://www.linkedin.com/in/edmillson-as
 
-I’m open to collaborating on projects, contributing to Python/data initiatives, and learning from other developers and data professionals. Feel free to explore my repositories and get in touch!
+Feel free to explore my repositories and get in touch!
 
 ---
